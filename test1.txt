@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 6A91-B3AD
+
+ Directory of C:\Users\hyd52220\Desktop\Myproject
+
+13-01-2020  14:02    <DIR>          .
+13-01-2020  14:02    <DIR>          ..
+13-01-2020  14:02                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  137,864,495,104 bytes free
